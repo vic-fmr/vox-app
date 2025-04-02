@@ -6,18 +6,28 @@ O Vox foi desenvolvido para auxiliar a população no acesso a serviços da Pol�
 
 ## Funcionalidades Principais
 ✉️ Registro de BO: Orienta sobre como registrar um boletim de ocorrência online ou presencialmente.
+
 🌐 Localização de Delegacias: Fornece endereços, telefones e horários de funcionamento.
+
 📝 Denúncias Online: Canal para denúncias anônimas e acompanhamento do andamento.
+
 🌟 Avaliação do Atendimento: Permite aos usuários darem feedback sobre o atendimento recebido.
+
 🗓️ Agendamento de Atendimentos: Sistema de marcação de horários para atendimento presencial.
+
 🛡️ Dicas de Segurança: Informações preventivas sobre segurança pública.
+
 🔄 Histórico de Conversas: Permite que o usuário acesse interações passadas.
 
 ## Tecnologias utilizadas
 Frontend: React.js, TypeScript, Tailwind CSS ou Styled Components
+
 Backend: Node.js, Express
+
 NLP (Processamento de Linguagem Natural): Rasa
+
 Banco de Dados: PostgreSQL
+
 Ferramentas: Figma (Protótipos), Trello (Gestão do Projeto)
 
 ## Histórias do Usuário
