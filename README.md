@@ -49,7 +49,7 @@ Ferramentas: Figma (Protótipos), Trello (Gestão do Projeto)
 
 💻 Protótipos no Figma: [Acessar](https://www.figma.com/design/6TVVSwysXotM3phDzW9TeX/Vox?node-id=87-512&t=M8T2lAza9VNu4Jhf-0)
 
-:clapper: Screencast: [Acessar](https://github.com/ndrfelipe/vox-app/blob/main/README.md)
+:clapper: Screencast: [Acessar](https://youtu.be/oFvomU1aAY4)
 
 ## Como Rodar o Projeto
 -- loading --
