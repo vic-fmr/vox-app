@@ -34,7 +34,9 @@ Ferramentas: Figma (Protótipos), Trello (Gestão do Projeto)
 
 ## Links Importantes
 📂 Trello (Gerenciamento do Projeto): [Acessar](https://trello.com/b/eKRNfaSC/projeto-accenture)
+
 📝 Storyboards do Chatbot: [Acessar](https://www.figma.com/board/k2HWikIzhrbJz0XkXj7OHY/StoryBoard---Mo%C3%A3?node-id=0-1&p=f&t=Kovjw56RPPk2BRMt-0)
+
 💻 Protótipos no Figma: [Acessar](https://www.figma.com/design/6TVVSwysXotM3phDzW9TeX/Vox?node-id=87-512&t=M8T2lAza9VNu4Jhf-0)
 
 ## Como Rodar o Projeto
