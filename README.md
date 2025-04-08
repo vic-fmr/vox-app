@@ -19,16 +19,33 @@ O Vox foi desenvolvido para auxiliar a população no acesso a serviços da Pol�
 
 🔄 Histórico de Conversas: Permite que o usuário acesse interações passadas.
 
-## Tecnologias utilizadas
-Frontend: React.js, TypeScript, Tailwind CSS ou Styled Components
+## 🛠️ Tecnologias Utilizadas
 
-Backend: Node.js, Express
+<div align="center">
+  
 
-NLP (Processamento de Linguagem Natural): Rasa
+  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  
+  <br><br>
+  
 
-Banco de Dados: PostgreSQL
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NLP-Rasa-5E4AE3?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
+  <br><br>
 
-Ferramentas: Figma (Protótipos), Trello (Gestão do Projeto)
+
+  <img src="https://img.shields.io/badge/Figma-Protótipos-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Trello-Gestão-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+
+</div>
+
+
 
 ## Histórias do Usuário
 1. Experiência de Conversa Suave
