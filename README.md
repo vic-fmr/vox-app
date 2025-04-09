@@ -70,12 +70,13 @@ Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolv
 10. Modo Noturno
 
 ## Links Importantes
-📂 ##Trello (Gerenciamento do Projeto): [Acessar](https://trello.com/b/eKRNfaSC/projeto-accenture)
+## 📂Trello (Gerenciamento do Projeto): [Acessar](https://trello.com/b/eKRNfaSC/projeto-accenture)
 ![image](https://github.com/user-attachments/assets/a5c54354-b0f2-4b4d-952f-9d699a9675c5)
 
 📝 ##Storyboards do Chatbot: [Acessar](https://www.figma.com/board/k2HWikIzhrbJz0XkXj7OHY/StoryBoard---Mo%C3%A3?node-id=0-1&p=f&t=Kovjw56RPPk2BRMt-0)
 ![image](https://github.com/user-attachments/assets/c9d53312-88d1-4a61-9fc0-93b944e81147)
-</br>
+
+
 💻 ##Protótipos no Figma: [Acessar](https://www.figma.com/design/6TVVSwysXotM3phDzW9TeX/Vox?node-id=87-512&t=M8T2lAza9VNu4Jhf-0)
 ![image](https://github.com/user-attachments/assets/cb2dfbd6-c110-4402-bd69-d1b2c916e655)
 
