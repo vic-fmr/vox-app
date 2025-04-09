@@ -1,23 +1,23 @@
 # Vox
-Chatbot Humanizado para a Polícia Civil de Pernambuco
-
+O Vox nasceu com um propósito simples, mas poderoso: facilitar o contato da população com a Polícia Civil de Pernambuco. Com uma abordagem moderna e acessível, o chatbot oferece suporte direto e descomplicado para quem busca informações, deseja registrar um BO ou precisa de atendimento sem enfrentar longas filas.
+Mais que um assistente virtual, o Vox é um canal de comunicação eficiente e humanizado, pensado para aproximar o cidadão dos serviços públicos de forma prática, segura e acolhedora.
 ## Sobre o Projeto
-O Vox foi desenvolvido para auxiliar a população no acesso a serviços da Polícia Civil de Pernambuco, oferecendo suporte interativo e acessível. O objetivo é modernizar e facilitar o atendimento, reduzindo filas e melhorando a comunicação com os cidadãos.
+Este projeto foi desenvolvido como parte da disciplina de Fundamentos de Desenvolvimento de Software e também está vinculado ao programa da Residência Tecnológica. Mais do que um exercício acadêmico, o Vox surgiu a partir de uma demanda real apresentada pela própria Polícia Civil, por meio da plataforma pública Desafios PE — um espaço voltado para a resolução colaborativa de problemas do estado.
+Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolver uma solução prática e de alto impacto social, aplicando as melhores práticas de engenharia de software e priorizando uma abordagem humanizada no atendimento digital ao cidadão.
 
-## Funcionalidades Principais
-✉️ Registro de BO: Orienta sobre como registrar um boletim de ocorrência online ou presencialmente.
 
-🌐 Localização de Delegacias: Fornece endereços, telefones e horários de funcionamento.
+## 🚀 O que o Vox pode fazer por você?
 
-📝 Denúncias Online: Canal para denúncias anônimas e acompanhamento do andamento.
+| Funcionalidade                | Descrição                                                                 |
+|------------------------------|---------------------------------------------------------------------------|
+| ✉️ Registro de BO            | Guia o usuário sobre como registrar um boletim de ocorrência, online ou presencial. |
+| 🌐 Localização de Delegacias | Informa endereços, contatos e horários de funcionamento das delegacias.   |
+| 📝 Denúncias Online          | Canal seguro para envio de denúncias anônimas e acompanhamento do caso.  |
+| 🌟 Avaliação do Atendimento  | Espaço para dar feedback e ajudar a melhorar os serviços.                |
+| 🗓️ Agendamento de Atendimentos | Permite agendar horários para atendimento presencial sem burocracia.     |
+| 🛡️ Dicas de Segurança        | Traz orientações úteis sobre como se proteger e agir com mais segurança. |
+| 🔄 Histórico de Conversas    | Permite ao usuário acessar conversas anteriores com o bot.               |
 
-🌟 Avaliação do Atendimento: Permite aos usuários darem feedback sobre o atendimento recebido.
-
-🗓️ Agendamento de Atendimentos: Sistema de marcação de horários para atendimento presencial.
-
-🛡️ Dicas de Segurança: Informações preventivas sobre segurança pública.
-
-🔄 Histórico de Conversas: Permite que o usuário acesse interações passadas.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -32,7 +32,7 @@ O Vox foi desenvolvido para auxiliar a população no acesso a serviços da Pol�
   
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
   
-  <br><br>
+  <br>
   
 
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -43,7 +43,7 @@ O Vox foi desenvolvido para auxiliar a população no acesso a serviços da Pol�
   
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   
-  <br><br>
+  <br>
 
 
   <img src="https://img.shields.io/badge/Figma-Protótipos-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
