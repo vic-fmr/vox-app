@@ -1,10 +1,11 @@
 # Vox
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cad05e48-c740-4ad1-b58a-46ba6cb25e3d" alt="Apresentação Vox" width="300"/>
+</p>
 O Vox possui um propósito simples, mas poderoso: facilitar o contato da população com a Polícia Civil de Pernambuco. Com uma abordagem moderna e acessível, o chatbot oferece suporte direto e descomplicado para quem busca informações, deseja registrar um BO ou precisa de atendimento sem enfrentar longas filas.
 Mais que um assistente virtual, o Vox é um canal de comunicação eficiente e humanizado, pensado para aproximar o cidadão dos serviços públicos de forma prática, segura e acolhedora.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cad05e48-c740-4ad1-b58a-46ba6cb25e3d" alt="Apresentação Vox" width="600"/>
-</p>
-<br>  
+<br> 
+
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte da disciplina de Fundamentos de Desenvolvimento de Software e também está vinculado ao programa da Residência Tecnológica. Mais do que um exercício acadêmico, o Vox surgiu a partir de uma demanda real apresentada pela própria Polícia Civil, por meio da plataforma pública Desafios PE — um espaço voltado para a resolução colaborativa de problemas do estado.
 Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolver uma solução prática e de alto impacto social, aplicando as melhores práticas de engenharia de software e priorizando uma abordagem humanizada no atendimento digital ao cidadão.
