@@ -59,18 +59,202 @@ Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolv
 
 
 
-## Histórias do Usuário
-0. Épico:
-1. Experiência de Conversa Suave
-2. Layout Responsivo
-3. Acessibilidade Melhorada
-4. Histórico de Conversas
-5. Opção de Idiomas
-6. Integração com BOs Online
-7. Sugestões de Respostas e Botões Rápidos
-8. Avaliação do Atendimento
-9. Agendamento de Atendimentos
-10. Modo Noturno
+## 📌 Histórias de Usuário
+
+<details>
+<summary><strong>🧩 Épico: Interface Humanizada e Acessível</strong></summary>
+
+**Descrição:**
+
+O chatbot humanizado da Polícia Civil de Pernambuco precisa de uma interface intuitiva, responsiva e acessível, garantindo que os cidadãos possam interagir de forma fluida e eficiente. O foco está na experiência do usuário, tornando a navegação agradável, clara e adaptada para diferentes dispositivos e públicos.
+
+**Objetivos:**
+- Criar um layout moderno, limpo e acessível.
+- Garantir que o chatbot funcione bem em dispositivos móveis, tablets e desktops.
+- Implementar componentes interativos, como botões rápidos e sugestões de mensagens.
+- Oferecer opções de personalização, como modo claro/escuro.
+- Melhorar a experiência de navegação com animações sutis e feedback visual.
+
+**Critérios de Aceitação:**
+- O design segue boas práticas de UX/UI.
+- A interface possui suporte para acessibilidade.
+- Transições suaves e responsividade funcional.
+- Integração eficiente entre front-end e API.
+
+</details>
+
+<details>
+<summary><strong>💬 1. Interação com o Usuário</strong></summary>
+
+**Cartão:**  
+Como um usuário, eu quero que a conversa com o chatbot seja fluida e natural para que minha experiência seja mais intuitiva e eficiente.
+
+**Conversação:**
+- O tempo de resposta deve ser curto.
+- O chatbot deve utilizar mensagens naturais e evitar frases repetitivas.
+
+**Critérios de Aceitação:**
+- O chatbot está lembrando do contexto da conversa?  
+- A resposta está fluida e natural?
+
+</details>
+
+<details>
+<summary><strong>📱 2. Layout Responsivo</strong></summary>
+
+**Cartão:**  
+Como um usuário, eu quero que o chatbot se adapte a diferentes telas para que eu possa utilizá-lo em qualquer dispositivo.
+
+**Conversação:**
+- O chatbot deve funcionar corretamente em diferentes tamanhos de tela.
+- Elementos da interface não devem quebrar ou sair da área visível.
+- Deve ser responsivo para dispositivos móveis, tablets e desktops.
+
+**Critérios de Aceitação:**
+- O chatbot está disponível para mobile, desktop e tablets?  
+- A interface está se ajustando automaticamente ao tamanho da tela?  
+- Testes foram feitos em diferentes navegadores?
+
+</details>
+
+<details>
+<summary><strong>♿ 3. Sistema Acessível</strong></summary>
+
+**Cartão:**  
+Como uma pessoa com deficiência visual ou motora, quero acessar e interagir com o chatbot de forma confortável e sem barreiras, para que eu possa obter informações e serviços da Polícia Civil com autonomia.
+
+**Conversação:**
+- Garantir compatibilidade com leitores de tela.
+- Explorar, se possível, recurso de leitura automática das mensagens.
+
+**Critérios de Aceitação:**
+- O chatbot oferece suporte para leitores de tela?  
+- Há suporte para navegação por teclado?  
+- Os tamanhos dos elementos visuais podem ser ajustados?
+
+</details>
+
+<details>
+<summary><strong>🕘 4. Histórico de Conversa</strong></summary>
+
+**Cartão:**  
+Como um usuário, quero acessar o histórico de conversas para recuperar informações sem precisar repetir perguntas.
+
+**Conversação:**
+- O usuário pode acessar conversas anteriores na sidebar.
+- As mensagens são exibidas em ordem cronológica.
+- Há opção de limpar ou exportar o histórico.
+
+**Critérios de Aceitação:**
+- O histórico está sendo armazenado localmente?  
+- O usuário pode excluir ou favoritar chats?  
+- Os chats terão tempo de expiração?  
+- O usuário pode dar continuidade ao processo via histórico?
+
+</details>
+
+<details>
+<summary><strong>🚨 5. Denúncia Online</strong></summary>
+
+**Cartão:**  
+Como um cidadão, eu quero enviar denúncias anônimas pelo chatbot para garantir minha segurança e ajudar a polícia.
+
+**Conversação:**
+- O usuário pode enviar denúncias anonimamente.
+- O chatbot fornece um código de acompanhamento.
+- O sistema segue protocolos de segurança.
+
+**Critérios de Aceitação:**
+- O sistema garante o anonimato do denunciante?  
+- O usuário possui acesso ao status da denúncia?
+
+</details>
+
+<details>
+<summary><strong>📍 6. Localização e Contatos das Unidades</strong></summary>
+
+**Cartão:**  
+Como um cidadão, quero encontrar delegacias próximas e seus contatos para que eu possa buscar atendimento quando necessário.
+
+**Conversação:**
+- Fornecer endereços, horários e telefones das delegacias.
+- Permitir visualização da delegacia mais próxima via mapa.
+- Informações sobre rotas e horários de funcionamento.
+
+**Critérios de Aceitação:**
+- As informações de localização e contato estão atualizadas?  
+- O sistema exibe mapa interativo?  
+- Indica a delegacia mais próxima e a responsável pelo caso?
+
+</details>
+
+<details>
+<summary><strong>⭐ 7. Avaliação de Atendimento</strong></summary>
+
+**Cartão:**  
+Como um usuário, eu quero avaliar o atendimento do chatbot para ajudar na melhoria do serviço.
+
+**Conversação:**
+- O chatbot solicitará feedback no final da conversa.
+- Avaliação poderá ser por estrelas, emojis ou texto.
+- O usuário pode justificar a nota.
+
+**Critérios de Aceitação:**
+- O chatbot solicita avaliação após interações significativas?  
+- O usuário pode escolher o tipo de feedback?  
+- As avaliações são registradas para análise futura?
+
+</details>
+
+<details>
+<summary><strong>📆 8. Agendamento de Atendimentos Físicos</strong></summary>
+
+**Cartão:**  
+Como um cidadão, eu quero agendar um atendimento presencial para reduzir tempo de espera nas delegacias.
+
+**Conversação:**
+- Exibir horários disponíveis por delegacia.
+- Enviar confirmação por email.
+- Permitir cancelamento ou reagendamento.
+
+**Critérios de Aceitação:**
+- O sistema mostra os horários disponíveis corretamente?  
+- O usuário recebe confirmação por email?  
+- É possível reagendar ou cancelar agendamentos?
+
+</details>
+
+<details>
+<summary><strong>🛡️ 9. Dicas de Segurança</strong></summary>
+
+**Cartão:**  
+Como um cidadão, eu quero receber dicas de segurança pelo ChatHuman Vox para me manter informado sobre práticas preventivas.
+
+**Conversação:**
+- O sistema exibe dicas úteis e atualizadas.
+- As dicas são coerentes e claras.
+
+**Critérios de Aceitação:**
+- As dicas estão sendo atualizadas periodicamente?  
+- O chatbot personaliza dicas conforme o perfil do usuário?
+
+</details>
+
+<details>
+<summary><strong>⚡ 10. Botões Rápidos e Sugestões de Mensagens</strong></summary>
+
+**Cartão:**  
+Como um cidadão em busca de atendimento, quero visualizar opções rápidas para facilitar minha interação com o chatbot.
+
+**Conversação:**
+- Sugestões automáticas de perguntas/respostas.
+- Botões rápidos para temas mais acessados.
+
+**Critérios de Aceitação:**
+- O sistema exibe botões de ação para as interações?  
+- As sugestões de mensagens são úteis e contextuais?
+
+</details>
 
 ## Links Importantes
 ## 📂Trello (Gerenciamento do Projeto): [Acessar](https://trello.com/b/eKRNfaSC/projeto-accenture)
@@ -82,23 +266,20 @@ Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolv
 ## 💻Protótipos no Figma: [Acessar](https://www.figma.com/design/6TVVSwysXotM3phDzW9TeX/Vox?node-id=87-512&t=M8T2lAza9VNu4Jhf-0)
 ![image](https://github.com/user-attachments/assets/cb2dfbd6-c110-4402-bd69-d1b2c916e655)
 
-## :clapper: Acesso o nosso Screencast: [Acessar](https://youtu.be/oFvomU1aAY4)
-
-## Como Rodar o Projeto
--- loading --
+## :clapper: Acesso o nosso Screencast: [Acessar](https://youtu.be/VS1usrmIDBk)
 
 ## Desenvolvido por 
-## André Felipe
+- André Felipe
 <p align="left">
   <img src="https://github.com/user-attachments/assets/f02f82af-ee7e-493d-9a39-fbf12901c370" alt="Apresentação Vox" width="250"/>
 </p
   
-## Victor Ferreira
+- Victor Ferreira
 <p align="left">
   <img src="https://github.com/user-attachments/assets/5d28ef37-5a7e-45fe-9fea-77e7fa05d175" alt="Apresentação Vox" width="250"/>
 </p
 
-## Alan Vitor
+- Alan Vitor
 <p align="left">
   <img src="https://github.com/user-attachments/assets/22de2ba7-a922-472a-8178-06e4f6377b35" alt="Apresentação Vox" width="250"/>
 </p
