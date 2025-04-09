@@ -4,7 +4,7 @@
 </p>
 O Vox possui um propósito simples, mas poderoso: facilitar o contato da população com a Polícia Civil de Pernambuco. Com uma abordagem moderna e acessível, o nosso ChatHuman oferece suporte direto e descomplicado para quem busca informações, deseja registrar um BO ou precisa de atendimento sem enfrentar longas filas.
 Mais que um assistente virtual, o Vox é um canal de comunicação eficiente e humanizado, pensado para aproximar o cidadão dos serviços públicos de forma prática, segura e acolhedora.
-<br> 
+<br><br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bc86b950-1cd3-4f17-a4fd-c48ac259df7b" alt="Apresentação Vox" width="80%"/>
 </p>
