@@ -6,7 +6,7 @@ O Vox possui um propósito simples, mas poderoso: facilitar o contato da popula�
 Mais que um assistente virtual, o Vox é um canal de comunicação eficiente e humanizado, pensado para aproximar o cidadão dos serviços públicos de forma prática, segura e acolhedora.
 <br> 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc86b950-1cd3-4f17-a4fd-c48ac259df7b" alt="Apresentação Vox" width="250"/>
+  <img src="https://github.com/user-attachments/assets/bc86b950-1cd3-4f17-a4fd-c48ac259df7b" alt="Apresentação Vox" width="80%"/>
 </p>
 
 ## Sobre o Projeto
