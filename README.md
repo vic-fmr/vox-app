@@ -88,13 +88,20 @@ Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolv
 -- loading --
 
 ## Desenvolvido por 
-- André Felipe
-![WhatsApp Image 2025-04-09 at 18 40 41](https://github.com/user-attachments/assets/f02f82af-ee7e-493d-9a39-fbf12901c370)
+## - André Felipe
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f02f82af-ee7e-493d-9a39-fbf12901c370" alt="Apresentação Vox" width="250"/>
+</p
 
-- Victor Ferreira
-![WhatsApp Image 2025-04-09 at 18 39 44](https://github.com/user-attachments/assets/5d28ef37-5a7e-45fe-9fea-77e7fa05d175)
+## - Victor Ferreira
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5d28ef37-5a7e-45fe-9fea-77e7fa05d175" alt="Apresentação Vox" width="250"/>
+</p
 
-- Alan Vitor
-![WhatsApp Image 2025-04-09 at 18 42 06](https://github.com/user-attachments/assets/22de2ba7-a922-472a-8178-06e4f6377b35)
+## - Alan Vitor
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/22de2ba7-a922-472a-8178-06e4f6377b35" alt="Apresentação Vox" width="250"/>
+</p
+
 
 Com objetivo de facilitar o acesso à segurança pública! 💪🏻
