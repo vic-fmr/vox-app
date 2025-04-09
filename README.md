@@ -1,5 +1,5 @@
 # Vox
-O Vox nasceu com um propósito simples, mas poderoso: facilitar o contato da população com a Polícia Civil de Pernambuco. Com uma abordagem moderna e acessível, o chatbot oferece suporte direto e descomplicado para quem busca informações, deseja registrar um BO ou precisa de atendimento sem enfrentar longas filas.
+O Vox possui um propósito simples, mas poderoso: facilitar o contato da população com a Polícia Civil de Pernambuco. Com uma abordagem moderna e acessível, o chatbot oferece suporte direto e descomplicado para quem busca informações, deseja registrar um BO ou precisa de atendimento sem enfrentar longas filas.
 Mais que um assistente virtual, o Vox é um canal de comunicação eficiente e humanizado, pensado para aproximar o cidadão dos serviços públicos de forma prática, segura e acolhedora.
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte da disciplina de Fundamentos de Desenvolvimento de Software e também está vinculado ao programa da Residência Tecnológica. Mais do que um exercício acadêmico, o Vox surgiu a partir de uma demanda real apresentada pela própria Polícia Civil, por meio da plataforma pública Desafios PE — um espaço voltado para a resolução colaborativa de problemas do estado.
@@ -55,6 +55,7 @@ Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolv
 
 
 ## Histórias do Usuário
+0. Épico:
 1. Experiência de Conversa Suave
 2. Layout Responsivo
 3. Acessibilidade Melhorada
@@ -68,10 +69,14 @@ Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolv
 
 ## Links Importantes
 📂 Trello (Gerenciamento do Projeto): [Acessar](https://trello.com/b/eKRNfaSC/projeto-accenture)
+![image](https://github.com/user-attachments/assets/a5c54354-b0f2-4b4d-952f-9d699a9675c5)
+
 
 📝 Storyboards do Chatbot: [Acessar](https://www.figma.com/board/k2HWikIzhrbJz0XkXj7OHY/StoryBoard---Mo%C3%A3?node-id=0-1&p=f&t=Kovjw56RPPk2BRMt-0)
+![image](https://github.com/user-attachments/assets/c9d53312-88d1-4a61-9fc0-93b944e81147)
 
 💻 Protótipos no Figma: [Acessar](https://www.figma.com/design/6TVVSwysXotM3phDzW9TeX/Vox?node-id=87-512&t=M8T2lAza9VNu4Jhf-0)
+![image](https://github.com/user-attachments/assets/cb2dfbd6-c110-4402-bd69-d1b2c916e655)
 
 :clapper: Screencast: [Acessar](https://youtu.be/oFvomU1aAY4)
 
