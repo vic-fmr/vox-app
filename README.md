@@ -38,8 +38,6 @@ Ao identificar o desafio, nosso grupo decidiu assumir o compromisso de desenvolv
   
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-  
   <br>
   
 
